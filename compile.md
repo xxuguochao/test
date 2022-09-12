@@ -2,6 +2,7 @@
 
 **Makefile修改**
 在Makefile中取消LAB8	:= -DLAB8_EX1 -DLAB8_EX2(第13行)的注释
+
 ```
 LAB1	:= -DLAB1_EX4 # -D_SHOW_100_TICKS -D_SHOW_SERIAL_INPUT
 LAB2	:= -DLAB2_EX1 -DLAB2_EX2 -DLAB2_EX3
