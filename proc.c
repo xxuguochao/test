@@ -13,7 +13,8 @@
 #include <assert.h>
 #include <unistd.h>
 //edit again
-//132456789`
+//132456789
+//xgc
 //edit again again
 //edit it 2022/9/12
 /* ------------- process/thread mechanism design&implementation -------------
